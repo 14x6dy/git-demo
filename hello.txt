@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 hello alguigu! hello gtdqdqdwq
 hello alguigucdddddddddddwqdwqddxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxc hello gitsadadd
+======qwdqwdqwdqwdkpkllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllhaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaello alguigu! hello gtdqdqdwq
+hello alguigucdddddddddd hello gitsadadd
+>>>>>>> b55c4c3b4c288b621b9740615f1105e5a1f6bd7a
 hello alguigu! hello git
-hello alguigu! hello git
+hxxxxxxxxxxxxxxxxxxxxxyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyello alguigu! hello git
 hello alguigu! hello gitsddsadas
 hello alguigu! hello gitasdas
 hello alguigu! hello git
